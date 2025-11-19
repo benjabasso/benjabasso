@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Soy Benjamín Basso, desarrollador Full Stack orientado al **backend**, la arquitectura de software y la construcción de sistemas que realmente funcionan.  
 Este perfil es donde centralizo mis proyectos, ideas y experimentos mientras sigo creciendo como profesional en el mundo del software.
 
-![Code is Art]([https://media.licdn.com/dms/image/v2/D4D16AQFl-NCK1sneJA/profile-displaybackgroundimage-shrink_350_1400/B4DZZ71hfWG0Ac-/0/1745834351300?e=1751500800&v=beta&t=5CZQR-w-DNJlrvrwXudhR5xXSpYy8K667RycnCSO-eE](https://ar.pinterest.com/pin/479703797831204213/))
+![]([[https://media.licdn.com/dms/image/v2/D4D16AQFl-NCK1sneJA/profile-displaybackgroundimage-shrink_350_1400/B4DZZ71hfWG0Ac-/0/1745834351300?e=1751500800&v=beta&t=5CZQR-w-DNJlrvrwXudhR5xXSpYy8K667RycnCSO-eE](https://ar.pinterest.com/pin/479703797831204213/)](https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/tu-primer-programa-en-java-hello-world.webp))
 
 
 ## 🚀 Qué vas a encontrar acá
