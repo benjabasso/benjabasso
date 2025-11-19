@@ -14,20 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hola, mi nombre es Benjamin Basso 👋
-### Systems Analisys & IT Solutions 💻
+# 👋 ¡Bienvenido/a a mi espacio en GitHub!
 
-![Code is Art](https://media.licdn.com/dms/image/v2/D4D16AQFl-NCK1sneJA/profile-displaybackgroundimage-shrink_350_1400/B4DZZ71hfWG0Ac-/0/1745834351300?e=1751500800&v=beta&t=5CZQR-w-DNJlrvrwXudhR5xXSpYy8K667RycnCSO-eE)
+Soy Benjamín Basso, desarrollador Full Stack orientado al **backend**, la arquitectura de software y la construcción de sistemas que realmente funcionan.  
+Este perfil es donde centralizo mis proyectos, ideas y experimentos mientras sigo creciendo como profesional en el mundo del software.
+
+![Code is Art]([https://media.licdn.com/dms/image/v2/D4D16AQFl-NCK1sneJA/profile-displaybackgroundimage-shrink_350_1400/B4DZZ71hfWG0Ac-/0/1745834351300?e=1751500800&v=beta&t=5CZQR-w-DNJlrvrwXudhR5xXSpYy8K667RycnCSO-eE](https://ar.pinterest.com/pin/479703797831204213/))
 
 
-📚 Estudiante de Sistemas, apasionado por el desarrollo.
-Comence a estudiar Ingeniería en Sistemas de Información en el año 2023 en la UTN (Universidad Técnologica Nacional) y en el 2025 me trasladé a la INSLN por cercanía y horarios.
+## 🚀 Qué vas a encontrar acá
+Me gusta trabajar con tecnologías modernas y enfoques ordenados, así que mis repos suelen incluir:
 
-🦠 Desde el año 2020, con la pandemia, comencé a introducirme en el mundo de la programación comenzando por Desarrollo Web.
-Esto me hizo interesarme mucho en el código pero a la larga dejo de llamarme la atención el Front-End con HTML y CSS, y comence a formarme en Back-End (Java, Phyton, C++, C#, etc...).
+- **APIs bien estructuradas** con Node.js, Express, C# o TypeScript  
+- Proyectos full stack con **React** o **Angular**  
+- Integraciones reales con **PostgreSQL**, **MySQL** o **MongoDB**  
+- Autenticación JWT, middlewares, validaciones, roles, y buenas prácticas  
+- Arquitecturas pensadas para escalar y mantenerse en el tiempo  
 
-📈 Actualmente sigo formandome continuamente y aprendiendo con nuevas tecnologías, estoy muy interesado en la integración con IA y como esta puede brindar soluciones a grandes empresas o profesionales.
-Mi objetivo es lograr integrar al 100% la Inteligencia Artificial con los sistemas actuales utilizados por las empresas, poder sacar provecho de ella, automatizar procesos y brindar excelentes servicios.
+Mi objetivo no es subir “código perfecto”, sino soluciones sólidas que voy mejorando a medida que aprendo y profundizo en nuevas tecnologías.
+
+---
+
+## 🧩 Sobre mí
+Soy estudiante de **Análisis de Sistemas** y combino mi formación técnica con un fuerte interés por el diseño de arquitecturas limpias, la seguridad, las bases de datos y la automatización con IA.
+
+Me motiva entender el *por qué* detrás de las cosas, no solo el *cómo*.  
+Por eso disfruto diseñar desde cero, modularizar, refactorizar y dejar cada proyecto más claro y mantenible que antes.
+
+---
+
+## 🔥 En qué estoy trabajando ahora
+- Puliendo un **Medical System** full stack con arquitectura modular.  
+- Construyendo un **asistente de IA** para un e-commerce real.  
+- Reforzando mis bases en **PostgreSQL**, SQL avanzado y diseño de API.  
+- Subiendo nuevas versiones y mejoras de mis proyectos existentes.  
+
+---
 
 Siempre estoy abierto a consejos y críticas constructivas!
 
