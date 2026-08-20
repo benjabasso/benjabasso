@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 # 👋 ¡Bienvenido/a a mi espacio en GitHub!
 
-Soy Benjamín Basso, desarrollador Full Stack orientado al **backend**, la arquitectura de software y la construcción de sistemas que realmente funcionan.  
-Este perfil es donde centralizo mis proyectos, ideas y experimentos mientras sigo creciendo como profesional en el mundo del software.
+Soy Benjamín Basso, desarrollador Full Stack orientado al **backend**, la arquitectura de software y la construcción de sistemas que realmente funcionan.
+Actualmente en el equipo de Netrix Global como Software Engineer.
+Este perfil es donde centralizo mis proyectos, ideas y experimentos en el mundo del software.
 
 ![]([[https://media.licdn.com/dms/image/v2/D4D16AQFl-NCK1sneJA/profile-displaybackgroundimage-shrink_350_1400/B4DZZ71hfWG0Ac-/0/1745834351300?e=1751500800&v=beta&t=5CZQR-w-DNJlrvrwXudhR5xXSpYy8K667RycnCSO-eE](https://ar.pinterest.com/pin/479703797831204213/)](https://codersfree.nyc3.cdn.digitaloceanspaces.com/posts/tu-primer-programa-en-java-hello-world.webp))
 
@@ -44,9 +45,9 @@ Por eso disfruto diseñar desde cero, modularizar, refactorizar y dejar cada pro
 ---
 
 ## 🔥 En qué estoy trabajando ahora
-- Puliendo un **Medical System** full stack con arquitectura modular.  
+- Sistema Web integrado para un gimnasio con 3 sedes activas.
 - Construyendo un **asistente de IA** para un e-commerce real.  
-- Reforzando mis bases en **PostgreSQL**, SQL avanzado y diseño de API.  
+- Ampliando mi conocimiento como AI Developer, construyendo agentes.
 - Subiendo nuevas versiones y mejoras de mis proyectos existentes.  
 
 ---
